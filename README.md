@@ -42,44 +42,7 @@ Criar algo 'natty' com IA foi um desafio interessante. A principal dificuldade f
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>E-BOOK-MINHA JORNADA-TEC (DIO-python-VIVO)</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            background-color: #f5f5f5;
-            color: #333;
-        }
-        .title {
-            font-size: 2em;
-            font-weight: bold;
-            text-align: center;
-            margin-top: 20px;
-            padding: 10px;
-            background-color: #0073e6;
-            color: white;
-            border-radius: 10px;
-            width: 80%;
-        }
-        .image-container {
-            display: flex;
-            justify-content: space-around;
-            align-items: center;
-            margin: 20px 0;
-            flex-wrap: wrap;
-        }
-        .image-container img {
-            width: 100px;
-            height: auto;
-            margin: 10px;
-            border: 2px solid #0073e6;
-            border-radius: 5px;
-        }
-    </style>
+    
 </head>
 <body>
     <div style="display: flex; justify-content: space-around; align-items: center;">
