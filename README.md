@@ -38,11 +38,22 @@ Os resultados do meu projeto foram bastante satisfatórios. Consegui criar um eB
 Criar algo 'natty' com IA foi um desafio interessante. A principal dificuldade foi manter a originalidade e a pessoalidade enquanto utilizava ferramentas de IA para gerar e melhorar o conteúdo. No entanto, esse processo também mostrou o potencial das tecnologias de IA para facilitar a criação de materiais complexos e de alta qualidade. A experiência me ensinou a equilibrar a automação com a criatividade humana, resultando em um produto final que é tanto eficiente quanto autêntico.
 
 ```
-<img src="1.png">
-<img src="2.png">
-<img src="3.png">
-<img src="4.png">
-<img src="5.png">
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Imagens Lado a Lado</title>
+</head>
+<body>
+    <div style="display: flex; justify-content: space-around; align-items: center;">
+        <img src="1.png" alt="Image 1" style="width: 100px; height: auto; margin: 5px;">
+        <img src="2.png" alt="Image 2" style="width: 100px; height: auto; margin: 5px;">
+        <img src="3.png" alt="Image 3" style="width: 100px; height: auto; margin: 5px;">
+        <img src="4.png" alt="Image 4" style="width: 100px; height: auto; margin: 5px;">
+        <img src="5.png" alt="Image 5" style="width: 100px; height: auto; margin: 5px;">
+    </div>
+</body>
+</html>
 
 ### Exemplos e Insigths
 
