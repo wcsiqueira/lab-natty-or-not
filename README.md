@@ -46,11 +46,11 @@ Criar algo 'natty' com IA foi um desafio interessante. A principal dificuldade f
 </head>
 <body>
     <div style="display: flex; justify-content: space-around; align-items: center;">
-        <img src="1.png" alt="Image 1" style="width: 400px; height: auto; margin: 5px;">
-        <img src="2.png" alt="Image 2" style="width: 400px; height: auto; margin: 5px;">
-        <img src="3.png" alt="Image 3" style="width: 400px; height: auto; margin: 5px;">
-        <img src="4.png" alt="Image 4" style="width: 400px; height: auto; margin: 5px;">
-        <img src="5.png" alt="Image 5" style="width: 400px; height: auto; margin: 5px;">
+        <img src="1.png" alt="Image 1" style="width: 300px; height: auto; margin: 5px;">
+        <img src="2.png" alt="Image 2" style="width: 300px; height: auto; margin: 5px;">
+        <img src="3.png" alt="Image 3" style="width: 300px; height: auto; margin: 5px;">
+        <img src="4.png" alt="Image 4" style="width: 300px; height: auto; margin: 5px;">
+        <img src="5.png" alt="Image 5" style="width: 300px; height: auto; margin: 5px;">
     </div>
 </body>
 </html>
