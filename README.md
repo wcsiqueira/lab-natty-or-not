@@ -20,13 +20,13 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# E-Book MINHA JORNADA-TEC 
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+NESTE EBOOK DEMONSTRO minhas Motivações e metodos de estudos como uso de mapas mentais ,estudos e  o processo de aprendizagem  utlizado para Python e banco de dados 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+As IAs Generativas e outras ferramentas usadas  foram as seguintes , Chat GPT,Bing , DreamStudio, Canvas .
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
