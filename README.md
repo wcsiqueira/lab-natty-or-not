@@ -23,7 +23,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # E-Book MINHA JORNADA-TEC 
 
 ## 📒 Descrição
-NESTE EBOOK DEMONSTRO minhas Motivações e metodos de estudos como uso de mapas mentais ,estudos e  o processo de aprendizagem  utlizado para Python e banco de dados 
+Neste E-BOOK demonstr  um pouco das minhas Motivações e de meus  metodos de estudos como uso de mapas mentais ,estudos e  o processo de aprendizagem  utlizado para Python e banco de dados 
 
 ## 🤖 Tecnologias Utilizadas
 As IAs Generativas e outras ferramentas usadas  foram as seguintes , Chat GPT,Bing , DreamStudio, Canvas .
