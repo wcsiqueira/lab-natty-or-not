@@ -36,13 +36,13 @@ Os resultados do meu projeto foram bastante satisfatórios. Consegui criar um eB
 
 ## 💭 Reflexão (Opcional)
 Criar algo 'natty' com IA foi um desafio interessante. A principal dificuldade foi manter a originalidade e a pessoalidade enquanto utilizava ferramentas de IA para gerar e melhorar o conteúdo. No entanto, esse processo também mostrou o potencial das tecnologias de IA para facilitar a criação de materiais complexos e de alta qualidade. A experiência me ensinou a equilibrar a automação com a criatividade humana, resultando em um produto final que é tanto eficiente quanto autêntico.
+
+```
 <img src="1.png">
 <img src="2.png">
 <img src="3.png">
 <img src="4.png">
 <img src="5.png">
-```
-
 
 ### Exemplos e Insigths
 
